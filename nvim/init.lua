@@ -27,5 +27,5 @@ require("lazy").setup({
 	require("plugins.alpha"),
 	require("plugins.indent-blankline"),
 	require("plugins.misc"),
-	require("plugins.neoscroll"),
+	require("plugins.ufo"),
 })
